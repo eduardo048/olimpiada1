@@ -15,9 +15,9 @@ public class Mapa {
     public Mapa() {
     }
 
-    public Mapa(int tamaño, int numeroVehiculo, int numeroCarreteras ) {
+    public Mapa(int tamaño, int numeroVehiculo ) {
         this.tamaño = tamaño;
-        calcularCarretera( numeroCarreteras);
+        
         this.numeroVehiculo = numeroVehiculo;
     }
     
