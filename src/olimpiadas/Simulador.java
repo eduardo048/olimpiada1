@@ -8,6 +8,6 @@ package olimpiadas;
  *
  * @author eduar
  */
-public class Lanzadora {
+public class Simulador {
     
 }
